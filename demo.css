@@ -1,0 +1,63 @@
+.bao{
+    width: 100%;
+}
+.banner{
+    background-color: #D8D8D8;
+}
+.mau{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    color: #A4A4A4;
+    max-height: 40px;
+}
+.hi{
+    background-color: #E6E6E6;
+}
+.can{
+    text-align: center;
+    margin-top: 5px;
+    text-decoration-line: underline;
+}
+.giữa{
+    float: left;
+    background-color: #F4FA58;
+    height: 120px;
+}
+.chu{
+    margin-left: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #BDBDBD;
+}
+.chu1{
+    margin-left: 20px;
+    color: #BDBDBD;
+}
+.phải{
+    float: right;
+    width: 185px;
+    height: 155px;
+    background-color: #E6E6E6;
+}
+.giữa1{
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    color: #BDBDBD;
+}
+.giữa2{
+    color: #BDBDBD;
+    font-size: 17px;
+}
+.b{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #FF0000;
+    margin-top: 15px;
+}
+@media screen and (max-width: 2000px) {
+}
+@media screen and (max-width: 480px) {
+}

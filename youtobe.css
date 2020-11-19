@@ -1,0 +1,59 @@
+.bao{
+    width: 100%px;
+}
+.banner{
+    background-color: #D8D8D8;
+}
+.mau{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    color: #A4A4A4;
+    max-height: 20px;
+}
+.hi{
+    background-color: #E6E6E6;
+}
+.can{
+    text-align: center;
+    margin-top: 5px;
+    text-decoration-line: underline;
+}
+/* .hh{
+    background-color: burlywood;
+} */
+.text{
+    font-size: 10px;
+    font-weight: bold;
+}
+.qq{
+    font-size: 9px;
+}
+.kk{
+    background-color: #EEEEEE;
+    height: 150px;
+    margin-top: 5px;
+}
+.giữa1{
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    color: #BDBDBD;
+}
+.giữa2{
+    color: #BDBDBD;
+    font-size: 17px;
+}
+.abc{
+    height: 70px;
+    text-align: center;
+}
+
+@media screen and (max-width: 480px) {
+    /* .mau{
+        font-size:25px;
+    }
+    .img img{
+        width: 90px;
+    } */
+}
